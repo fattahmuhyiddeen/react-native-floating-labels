@@ -190,7 +190,7 @@ var styles = StyleSheet.create({
     backgroundColor: 'transparent',
     justifyContent: 'center',
     // borderWidth: 1,
-    color: 'black',
+    // color: 'black',
     fontSize: 20,
     borderRadius: 4,
     paddingLeft: 10,
