@@ -186,10 +186,10 @@ var styles = StyleSheet.create({
   },
   input: {
     height: 40,
-    borderColor: 'gray',
+    // borderColor: 'gray',
     backgroundColor: 'transparent',
     justifyContent: 'center',
-    borderWidth: 1,
+    // borderWidth: 1,
     color: 'black',
     fontSize: 20,
     borderRadius: 4,
